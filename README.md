@@ -71,5 +71,5 @@ Ejecutar agente:
 
 ```bash
 Enter agent pool (press enter for default) > 
-~/myagent$ ./run.sh
+~/az-agents$ ./run.sh
 ```
