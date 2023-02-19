@@ -113,3 +113,15 @@ Otros comandos
 - Stop `sudo ./svc.sh stop`
 - Uninstall `sudo ./svc.sh uninstall` (antes hay que pararlo)
 
+# Initial settings
+
+Instalar lo siguiente en el agente:
+
+- Azure CLI para ubuntu
+
+# Migración
+
+Si se mueve la carpeta que contiene el `.vagrant `a otra localización, hay que editar la `path` en Virtual Box en dos sitios:
+
+- En `Settings/Shared Folders`
+- En `Settings/Serial Ports`
